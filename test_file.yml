@@ -1,0 +1,9 @@
+- one
+- two
+- whatever
+- 1
+- 2
+- 10
+-   hostname: router
+    ip_address: 10.1.1.12
+["one", "two", "whatever", 1, 2, 10, {"hostname": "router", "ip_address": "10.1.1.12"}]
